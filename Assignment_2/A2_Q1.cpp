@@ -6,3 +6,6 @@
 //
 
 #include "A2_Q1.hpp"
+#include <iostream>
+using namespace std;
+
